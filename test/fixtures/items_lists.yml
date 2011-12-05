@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  buy_price: 1.5
+  bought: false
+  quantity: 1
+
+two:
+  buy_price: 1.5
+  bought: false
+  quantity: 1
