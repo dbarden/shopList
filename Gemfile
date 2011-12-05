@@ -12,6 +12,10 @@ gem 'rails', '3.1.3'
 
 gem 'sqlite3'
 
+# Support for push notifications
+gem 'apn_on_rails', :git => 'https://github.com/natescherer/apn_on_rails.git', :branch => 'rails3'
+
+
 
 # Gems used only for assets and not required
 # in production environments by default.
